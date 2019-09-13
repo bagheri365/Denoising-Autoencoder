@@ -4,7 +4,8 @@ In this repo, I share my practice in implementing a deep convolutional denoising
 
 # Table of contents
 - Data Preparation
-  - Load DataScale and Reshape the Data
+  - Load Data
+  - Scale and Reshape the Data
   - Add Noise to the Data
 - Denoising Autoencoder
   - Build Encoder Model 
