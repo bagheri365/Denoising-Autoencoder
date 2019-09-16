@@ -18,5 +18,5 @@ In this repo, I share my practice in implementing a deep convolutional denoising
 # Demo
 
 <p align="center">
-    <img src="https://github.com/bagheri365/Denoising-Autoencoder/blob/master/img/DAE.png" width="640">
+    <img src="https://github.com/bagheri365/Denoising-Autoencoder/blob/master/img/DAE.png">
 </p>
